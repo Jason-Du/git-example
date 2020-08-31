@@ -1,0 +1,91 @@
+Computational Thinking and Problem Solving (邏輯思維與問題解決) 
+===
+
+[TOC]
+
+## 助教工作內容 
+
+- 0. [x] setup line group 方便大家聯絡
+- 1. [ ] 設定server & codimd
+- 2. [x] 加入facebook class group
+- 3. 熟悉python programming Tutorial, 準備
+    - A. 第一堂的python 分級考試
+        - [Datacamp Python programming accessment](https://learn.datacamp.com/assessments)
+        - 每位同學可以回家做這個accessment, 可以open book, 做完之後可以上傳result 如下
+        ![](https://i.imgur.com/1oZtwfh.png)
+        ![](https://i.imgur.com/hde8MxN.png)
+        ![](https://i.imgur.com/6yA0eJ0.png)
+
+
+    - B. Online Free Course 
+        - [DataCamp - Introduction to Python](https://learn.datacamp.com/courses/intro-to-python-for-data-science?tap_a=5644-dce66f&tap_s=75426-9cf8ad&tm_source=ic_recommended_course)
+        - [Udacity - Introduction to python programming](https://www.udacity.com/course/introduction-to-python--ud1110)
+    - C. 出python 的基本作業 
+        - [ ] For beginners, 目的是要讓同學能做case study 1 的練習
+        - For advanced learners - 可以讓他們挑戰[leetcode](https://leetcode.com/problemset/all/), 如果期末要做比較難的project, 就可以做些練習, 每週做5題
+- 4. [ ] 準備Case Study 1. 的基本coding framework
+    - week 7 Python programming bootcamp summary
+- 5. [ ] 跟課
+    - 9/11, 9/18 老師隔離中, 需要助教在教室協助遠端視訊上課
+- 6. Help 期中group proposal
+- 7. Help 期末project
+- 8. [ ] 協助業師演講安排相關事宜
+- 9. [ ] 決定office hour 跟地點
+
+## Introduction
+
+- Instructor - 林偉棻客座教授 \<weifen.lin@gs.ncku.edu.tw>
+- 助教群 
+    - 杜冠勳 \<dushiun@gmail.com>
+    - 黑崇瑜 \<n861201@gmail.com>
+    - 高士鈞 \<justin93006@gmail.com>
+
+- Lecture Hour - 1:00pm-4:00pm every Friday 
+- Office Hour 
+    - 林偉棻 10:00pm-11:00pm every Friday
+    - 助教群 ??? 每週兩次, 一次一小時, 週一到週四選兩天
+
+- 統計系館 62113 [教室位置](https://nckumap.ncku.edu.tw/map.php?type=activity&lan=zh-tw&bid=A040&rid=A04001010&floor=1F#)
+    ![](https://i.imgur.com/BuUuuRR.png)
+
+
+
+## Class Administration
+
+- [Facebook class group](https://www.facebook.com/groups/315124296585941) - https://www.facebook.com/groups/315124296585941
+    - 所有的公告與update 都會post 在facebook group 上
+
+## Syllabus
+
+- [成功大學行事曆](https://web.ncku.edu.tw/p/412-1000-6149.php?Lang=zh-tw)
+
+| 日期 | 週次 | 進度說明 | 附註  |
+|-----|-----|---------|------|
+| 9/11 |  1  | Course Overview/Administration <br><font color="darkblue">Python programming capability test & and Introduction</font>| 老師回國隔離中, 視訊上課<br>規定作業繳交格式|
+| 9/18 | 2 | Decomposition <br><font color="darkblue">Introduction to Python programming - Data Types and Operators</font>| 老師回國隔離中, 視訊上課 |
+| 9/25 | 3 | Pattern Recognition<br><font color="darkblue">Introduction to Python programming - Control Flow</font>| |
+| 10/2 | 4 |Data representation and Abstraction<br><font color="darkblue">Introduction to Python programming - Functions</font>| 10/2 學校規定調整放假。教師自行調補課 |
+| 10/9 | 5 | | 10/9 國慶日補假。|
+| 10/16 | 6 |Algorithms<br><font color="darkblue">Introduction to Python programming - Scripts</font>| 發bootcamp summary 作業|
+| 10/23 | 7 |Communication and Team Work<br><font color="darkblue">Python programming bootcamp summary</font> | |
+| 10/30 | 8 |1st Case Study - Grading for this course | |
+| 11/6 | 9 | 1st Case Study - Review | |
+| 11/13 | 10 | 2nd Case Study – Big Data Analysis & Applications | |
+| 11/20 | 11 | 3rd Case Study - Surveillance and Image Analysis | | 
+| 11/27 | 12 | Final Project Proposal Review |
+| 12/4 | 13 | 4th Case Study - Automated Aquaculture |
+| 12/11 | 14 |5th Case Study - Computational thinking and K-12 Education |
+| 12/18 | 15 | Interdisciplinary Project Management and Leadership |
+| 12/25 | 16 | Final Project Presentation |
+| 1/1 | 17 | | 1/1開國紀念日(放假)。|
+| 1/8 | 18 | Final Project Presentation |
+## Python Programming Tutorial
+
+
+## Case Study 1 - How to grade this course?
+
+- [Introduction To Facebook Social Graph API With Python](https://www.youtube.com/watch?v=Q6P6nVsor84)
+- [Facebook Group API Documentation](https://developers.facebook.com/docs/graph-api/)
+
+### 助教準備工作 #4
+- 在學期分數中, 我們會有一部分的分數需要透過每位同學在facebook class group 裡面的行為來打分數, 所以我們需要一個framework 可以讓同學能抓取class group 裡的所有的行為資料, 要請助教先準備一個framework
