@@ -1,2 +1,2 @@
-print('hello python & git & test2 tst for commit')
+print('hello python tst for commit')
 # Test for the branch
