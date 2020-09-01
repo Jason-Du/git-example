@@ -1,1 +1,1 @@
-print('hello python for master  local ')
+print('hello python for master  local checkout commit ')
