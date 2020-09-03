@@ -1,1 +1,3 @@
-print('hello python for master  local checkout commit ')
+print('hello python')
+print("master local change at 0903 0128")
+
